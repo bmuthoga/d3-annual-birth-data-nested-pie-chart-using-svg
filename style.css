@@ -1,0 +1,18 @@
+svg, input, #title {
+  margin: 0 auto;
+  display: block;
+}
+
+.arc {
+  stroke: black;
+}
+
+#title {
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+.outer-arc {
+  filter: grayscale(100%);
+  opacity: 0.6;
+}
